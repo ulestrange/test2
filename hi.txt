@@ -1,2 +1,6 @@
 
+a-new-branch
+Some changes written on the branch "a new branch"
+
 This is some still stuff which was written by me on a branch master
+master
