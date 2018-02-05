@@ -1,1 +1,2 @@
 
+Some changes written on the branch "a new branch"
